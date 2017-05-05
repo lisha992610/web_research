@@ -1,6 +1,7 @@
-# https://www.youtube.com/watch?v=GEshegZzt3M
+# Author: Shiying Li, created on 20.03.2017
+#
 # Python 3 - Parsing Websites with re and urllib
-# info: https://developers.google.com/custom-search/docs/topical
+
 
 import urllib.request
 import urllib.parse
@@ -9,9 +10,7 @@ import requests
 import time
 import csv
 import numpy as np
-from google-api-python-client import build
-
-API_KEY = "AIzaSyDEemAQdXuY5LdyLwKTXN41u4dvE2IBgRs"     # up to 100 search queries per day for free
+#from google-api-python-client import build
 
 web = "site:https://www.bcg.com/en-ch/ "
 
