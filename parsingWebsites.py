@@ -10,7 +10,7 @@ import requests
 import time
 import csv
 import numpy as np
-#from google-api-python-client import build
+
 
 web = "site:https://www.bcg.com/en-ch/ "
 
