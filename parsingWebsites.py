@@ -1,7 +1,6 @@
 # Author: Shiying Li, created on 20.03.2017
-#
+# This program was used for Data collection in the course "Industry Competitive Analyse" at the ETHZ.
 # Python 3 - Parsing Websites with re and urllib
-
 
 import urllib.request
 import urllib.parse
